@@ -24,6 +24,7 @@ Actions performed:
 - Performed typecasting -- converted some variables from 'float' to 'integers'
 - Performed Exploratory Data Analysis which can be briefly considered here https://bayan2019.github.io/02_customer_churn_html/
 - Carried out normality check for numerical variables (they all do not have normal distribution)
+- Dropped irrelevant columns.
 - Scaled numerical features.
 - Conducted One-hot encoding.
 - Build 6 models -- K Nearest Neighbors, Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, and MLP.
