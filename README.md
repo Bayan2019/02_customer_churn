@@ -1,6 +1,6 @@
 # 02_customer_churn
 
-In the notebook `02_customer.ipynb` there is analysis of customer churn rate of Bank. The additional visualization and overall summary can be found [here](https://bayan2019.github.io/03_fedex_html/)
+In the notebook `02_customer.ipynb` there is analysis of customer churn rate of Bank. The additional visualization and overall summary can be found [here](https://bayan2019.github.io/02_customer_churn_html/)
 
 Customer churn in banking is when a customer closes their account and switches to another bank. Over their customer lifetime, customers generate fees on transactions, banking fees, credit cards, home loans, and personal loans. Churn is a problem, because the bank loses revenue, and it costs more to acquire a new customer than retaining an existing one.
 
@@ -22,7 +22,7 @@ There was provided a dataset or 10 000 package delivery records.
 Actions performed:
 
 - Performed typecasting -- converted some variables from 'float' to 'integers'
-- Performed Exploratory Data Analysis which can be briefly considered here https://bayan2019.github.io/03_fedex_html/index.html
+- Performed Exploratory Data Analysis which can be briefly considered here https://bayan2019.github.io/02_customer_churn_html/
 - Carried out normality check for numerical variables (they all do not have normal distribution)
 - Scaled numerical features.
 - Conducted One-hot encoding.
